@@ -19,8 +19,9 @@ Safe Output: Creates everything inside an Output folder
 Error Handling: Detailed error messages with line numbers
 
 Installation & Usage 🚀
+
 bash
-Copy
+
 # Clone repository
 git clone https://github.com/yourusername/directory-structure-generator.git
 cd directory-structure-generator
@@ -50,13 +51,3 @@ Adjust parsing rules: Edit clean_line() method
 
 License 📄
 MIT License - Free for personal and commercial use
-
-Perfect for:
-
-Developers 👨💻👩💻
-
-Project templates 🎨
-
-CI/CD pipeline setups 🔄
-
-Bootstrapping new projects 🚀
