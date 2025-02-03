@@ -19,9 +19,9 @@ Safe Output: Creates everything inside an Output folder
 
 Error Handling: Detailed error messages with line numbers
 
-Installation & Usage 🚀
+# Installation & Usage 🚀
 
-bash
+
 
 # Clone repository
 git clone https://github.com/MasoumiAmir/Tree_Parser_to_File.git
