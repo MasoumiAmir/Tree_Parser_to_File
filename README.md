@@ -2,7 +2,7 @@
 
 A Python script that automatically creates files and folders based on a text-based tree diagram input. Perfect for quickly setting up project structures!
 
-Key Features ✨
+# Key Features ✨
 Text-to-Structure Conversion: Parses structure.txt to generate complete directory hierarchies
 
 Cross-Platform: Works on Windows, macOS, and Linux
@@ -24,7 +24,7 @@ Installation & Usage 🚀
 bash
 
 # Clone repository
-git clone https://github.com/yourusername/directory-structure-generator.git
+git clone https://github.com/MasoumiAmir/Tree_Parser_to_File.git
 cd directory-structure-generator
 
 # Create your structure file
